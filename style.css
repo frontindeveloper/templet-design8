@@ -1,0 +1,201 @@
+*{
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,700&display=swap');
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+/* ==============================================
+=====Index Of====
+1.Basic Style
+2. Header Style
+3. Hero Style
+4. Cliend Style
+5. FeactureList
+6. Smart Style
+7. Learn Style
+8. Group Style
+09.Pricing Style
+10.Testimonial Style
+11.Faq Style
+12. Download start
+13.Footer Style
+================================================= */
+/* ==============================================
+1. Basic Style
+================================================= */
+/* ==============================================
+2. Header style
+================================================= */
+header{
+    background-color: #eaaf46;
+}
+header.img{
+    color: ;
+}
+/* ==============================================
+3. Hero style
+================================================= */
+#hero
+#hero .text{
+
+}
+#hero .text h1{
+    font-size: 57.6;
+    color: #eaaf46;
+    margin-top: 48px;
+}
+#hero .text h4{
+    font-size: 20.5px;
+    font-weight: 700;
+    color:black;
+}
+#hero .img{
+
+}
+#hero .img img{
+    width: 1100px;
+    height: 372px;
+    display: inline-block; 
+    
+    padding-top: 37px;
+}
+/* ==============================================
+4. About style
+================================================= */
+#about{
+
+}
+#about .head .text{
+
+}
+#about .head .text h1{
+    
+    color: #000000;
+    margin-top: 60px;
+}
+#about .head .img{
+    margin-top: 30px;
+    padding-bottom: 60px;
+}
+#about .head .text1{
+
+}
+#about .head .text1 h2{
+    margin-top: 100px;
+    color: #000000;
+   
+}
+#about .head .text1 p{
+    font-size: 18px;
+    color: #000000;
+}
+#about .head .btnbox{
+
+}
+#about .head .btnbox a{
+    background-color: #eaaf46;
+    border: none;
+    font-weight: 700;
+}
+#about .head .text2{
+
+}
+#about .head .text2 h1{
+    margin-top: 60px;
+    font-size: 18px;
+    font-weight: 700;
+}
+#about .head .text2 p{
+    padding: 3px 0px;
+    font-weight: 700;
+}
+#about .head .img1 img{
+    margin-top: px;
+}
+#about .head .btn1{
+    margin-left: 170px;
+}
+#about .head .btn1 a{
+    width: 187px;
+    background-color: #eaaf46;
+    border: none;
+    font-weight: 700;
+    margin-top: 7px;
+    /* padding: 1px 0px; */
+}
+#about .head .btn1 a:hover{
+    background-color: blue;
+    color: red;
+}
+#about .head .img3{
+    padding: 50px 0px;
+}
+#about .head .text3{
+    /* padding:50px 0px; */
+}
+#about .head .text3 h1{
+    margin-top: 135px;
+    font-size: 18px;
+    font-weight: 700;
+}
+#about .head .text3 p{
+    font-weight: 700;
+}
+#about .head .btn3{
+    margin-bottom: 20px;
+}
+#about .head .btn3 a{
+    background-color: #eaaf46;
+    border: none;
+    width:187px ;
+    font-weight: 700;
+}
+/* ==============================================
+5. Footer style
+================================================= */
+footer{
+    background-color: #eaaf46;
+    height: 170px;
+    position: relative;
+}
+footer .text{
+
+}
+footer .iconbox{
+    position:absolute;
+}
+footer .social .text p{
+    padding-top: 38px;
+    padding-bottom: 7px;
+}
+footer .icon{
+    font-size: 40px;
+    padding-top: 0px 10px;
+    margin-bottom: 20px;
+    /* padding: 20px 0px; */
+}
+footer .icon i{
+    padding: 0px 15px;
+}
+#footer{
+    padding: 45px 0px;
+}
+#footer nav ul{
+    text-align: center;
+    margin: 0 auto;
+}
+#footer nav ul li{
+
+}
+#footer nav ul li a{
+    color: #000000;
+    padding: 0px 20px;
+}
+#footer nav ul li a:hover{
+    color: peru;
+}
